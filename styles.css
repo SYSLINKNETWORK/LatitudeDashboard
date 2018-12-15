@@ -32,10 +32,11 @@ h4 {
   position: fixed;
   left: 0;
   bottom: 0;
-  padding: 5px; 
+  padding: 2px; 
   width: 100%;
   background-color: grey;
   color: white;
+  font-size: 10px;
   text-align: center;
   border-top: 5px solid turquoise;
 }
