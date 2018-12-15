@@ -28,6 +28,18 @@ h4 {
   background: white;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 10px; 
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  border-top: 5px solid turquoise;
+}
+
 /* Here we define some styles that will ONLY be applied at screen sizes below 480 pixels */
 @media (max-width: 600px) {
   /* 
